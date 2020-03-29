@@ -1,0 +1,2 @@
+# SampleMavenWebProject
+Sample web application
